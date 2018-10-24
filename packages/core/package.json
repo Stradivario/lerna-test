@@ -1,5 +1,5 @@
 {
-  "name": "@quramy/x-core",
+  "name": "@rxdi/core",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -9,9 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "dependencies": {
-    "@types/node": "^8.0.28"
-  },
+  "dependencies": {},
   "devDependencies": {
     "typescript": "~3.0.0"
   }

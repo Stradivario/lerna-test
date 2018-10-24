@@ -1,4 +1,4 @@
-import { awesomeFn } from "@quramy/x-core";
+import { awesomeFn } from "@rxdi/core";
 
 export function cli() {
   awesomeFn();

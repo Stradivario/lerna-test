@@ -1,5 +1,5 @@
 {
-  "name": "@quramy/x-cli",
+  "name": "@quramy/graphql",
   "version": "1.0.0",
   "description": "",
   "main": "lib/main.js",
@@ -10,12 +10,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@quramy/x-core": "^1.0.0",
-    "@types/node": "^8.0.28",
-    "minimist": "^1.2.0"
+    "@rxdi/core": "^1.0.0"
   },
   "devDependencies": {
-    "ava": "^0.22.0",
     "typescript": "~3.0.0"
   },
   "ava": {
