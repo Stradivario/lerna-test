@@ -1,4 +1,4 @@
-import { awesomeFn } from "@quramy/x-core";
+import { awesomeFn, pesho } from "@quramy/x-core";
 
 export function cli() {
   awesomeFn();
