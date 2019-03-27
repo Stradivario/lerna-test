@@ -1,6 +1,6 @@
 {
   "name": "@rxdi/graphql",
-  "version": "0.0.409",
+  "version": "0.0.410-alpha.0",
   "description": "",
   "main": "lib/main.js",
   "scripts": {
